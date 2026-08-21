@@ -1,0 +1,24 @@
+body {
+    background-color: aliceblue;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+h1 {
+    color:darkslateblue;
+}
+
+header {
+    background-color: #FFFFFF;
+    padding: 20px;
+    border-bottom: 3px solid #3498db;
+}
+
+a {
+    color: #e67e22;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
